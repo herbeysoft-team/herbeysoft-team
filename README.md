@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abiodun Adam
-- 👀 I’m interested in building and developing software and embedded system that could help to solve problems in society.
-- 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on any Full Stack Development, Embedded System Design, Robotics and AI Systems
+- 👀 I’m interested in building and developing software that could help to solve problems in society and the world at large.
+- 🌱 I’m currently learning TypeScript
+- 💞️ I’m looking to collaborate on any Web & Mobile App Development
 - 📫 Contact @ +2348022407013
 
 <!---
